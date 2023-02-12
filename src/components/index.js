@@ -1,4 +1,4 @@
-// import Navbar from "./Navbar";
+import Navbar from "./Navbar";
 // import Billing from "./Billing";
 // import CardDeal from "./CardDeal";
 // import Business from "./Bussiness";
@@ -11,8 +11,8 @@
 // import GetStarted from './GetStarted'
 // import FeedbackCard from "./FeedBackCard";
 
-// export {
-  // Navbar,
+export {
+  Navbar,
   // Billing,
   // CardDeal,
   // Business,
@@ -24,4 +24,4 @@
   // Hero,
   // GetStarted,
   // FeedbackCard
-// };
+};

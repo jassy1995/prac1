@@ -1,8 +1,14 @@
+import { Navbar } from "./components";
+import style from "./style";
 
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
-    hello world
+    <div className={`${style.paddingX} ${style.flexCenter}`}>
+      <div className={`${style.boxWidth}`}>
+        <Navbar />
+      </div>
+    </div>
   </div>
 );
 
