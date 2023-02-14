@@ -1,4 +1,4 @@
-import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA } from "./components";
+import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from "./components";
 import style from "./style";
 
 
@@ -23,6 +23,7 @@ const App = () => (
         <Testimonials />
         <Clients />
         <CTA />
+        <Footer />
       </div>
     </div>
 

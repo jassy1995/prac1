@@ -6,7 +6,7 @@ import Business from "./Bussiness";
 import Clients from "./Clients";
 import CTA from "./Cta";
 import Stats from "./Stats";
-// import Footer from "./Footer";
+import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import GetStarted from './GetStarted'
@@ -19,7 +19,7 @@ export {
   Clients,
   CTA,
   Stats,
-  // Footer,
+  Footer,
   Testimonials,
   Loader,
   Hero,
