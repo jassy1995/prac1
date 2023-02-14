@@ -5,7 +5,7 @@ import Loader from "./Loader";
 // import Business from "./Bussiness";
 // import Clients from "./Clients";
 // import CTA from "./Cta";
-// import Stats from "./Stats";
+import Stats from "./Stats";
 // import Footer from "./Footer";
 // import Testimonials from "./Testimonials";
 import Hero from "./Hero";
@@ -19,7 +19,7 @@ export {
   // Business,
   // Clients,
   // CTA,
-  // Stats,
+  Stats,
   // Footer,
   // Testimonials,
   Loader,
