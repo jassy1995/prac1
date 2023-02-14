@@ -1,4 +1,4 @@
-import { Navbar } from "./components";
+import { Navbar, Hero } from "./components";
 import style from "./style";
 
 
@@ -9,6 +9,13 @@ const App = () => (
         <Navbar />
       </div>
     </div>
+    <div className={`${style.flexCenter}`}>
+      <div className={`${style.boxWidth}`}>
+        <Hero />
+      </div>
+    </div>
+
+
   </div>
 );
 

@@ -1,4 +1,5 @@
 import Navbar from "./Navbar";
+import Loader from "./Loader";
 // import Billing from "./Billing";
 // import CardDeal from "./CardDeal";
 // import Business from "./Bussiness";
@@ -7,8 +8,8 @@ import Navbar from "./Navbar";
 // import Stats from "./Stats";
 // import Footer from "./Footer";
 // import Testimonials from "./Testimonials";
-// import Hero from "./Hero";
-// import GetStarted from './GetStarted'
+import Hero from "./Hero";
+import GetStarted from './GetStarted'
 // import FeedbackCard from "./FeedBackCard";
 
 export {
@@ -21,7 +22,8 @@ export {
   // Stats,
   // Footer,
   // Testimonials,
-  // Hero,
-  // GetStarted,
+  Loader,
+  Hero,
+  GetStarted,
   // FeedbackCard
 };
