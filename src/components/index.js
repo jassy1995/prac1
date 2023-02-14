@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
 import Loader from "./Loader";
-// import Billing from "./Billing";
+import Billing from "./Billing";
 // import CardDeal from "./CardDeal";
 import Business from "./Bussiness";
 // import Clients from "./Clients";
@@ -14,7 +14,7 @@ import GetStarted from './GetStarted'
 
 export {
   Navbar,
-  // Billing,
+  Billing,
   // CardDeal,
   Business,
   // Clients,

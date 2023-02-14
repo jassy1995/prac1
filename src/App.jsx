@@ -1,4 +1,4 @@
-import { Navbar, Hero, Stats, Business } from "./components";
+import { Navbar, Hero, Stats, Business, Billing, } from "./components";
 import style from "./style";
 
 
@@ -18,6 +18,7 @@ const App = () => (
       <div className={`${style.boxWidth}`}>
         <Stats />
         <Business />
+        <Billing />
       </div>
     </div>
 
