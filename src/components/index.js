@@ -1,5 +1,4 @@
 import Navbar from "./Navbar";
-import Loader from "./Loader";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Bussiness";
@@ -21,7 +20,6 @@ export {
   Stats,
   Footer,
   Testimonials,
-  Loader,
   Hero,
   GetStarted,
 };
